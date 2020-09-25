@@ -1,4 +1,4 @@
-let size = 2;
+let size = 100;
 
 function setup() {
   createCanvas(500, 500);
